@@ -1,0 +1,7 @@
+torch
+transformers>=5.0
+peft>=0.21
+datasets
+accelerate
+scikit-learn
+numpy
